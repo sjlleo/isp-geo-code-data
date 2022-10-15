@@ -11,7 +11,7 @@
 
 ---
 
-注意2：新增数据需要提供响应城市的 `rDNS` 以作为证明
+注意2：新增数据需要提供相应城市的 `rDNS` 以作为证明
 
 如需要提交法兰克福、凤凰城的 `Cogentco` 数据，请在 pull request 中附上 `Cogentco` 在该城市的 `rDNS` 信息
 
@@ -19,12 +19,17 @@
 
 ```
 新增城市:
-fra - 德国 黑森州 法兰克福
-phx - 美国 亚利桑那州 凤凰城
+fra - 德国 黑森州 法兰克福 - cogentco
+phx - 美国 亚利桑那州 凤凰城 - cogentco
+nwrk - nj - 美国 特拉华州 纽瓦克 - ntt
+tokyo - 日本 东京都 东京 - level3
+
 
 rDNS: 
 154.54.37.30 - be2846.rcr22.fra06.atlas.cogentco.com
 154.54.42.65 - be2929.ccr31.phx01.atlas.cogentco.com
+129.250.6.87 - ae-2.r00.nwrknj03.us.bb.gin.ntt.net
+4.68.38.225 - ae-9.edge1.Tokyo4.Level3.net
 ```
 
 ## 贡献者名单
