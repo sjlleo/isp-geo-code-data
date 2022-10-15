@@ -37,3 +37,5 @@ rDNS:
 [sjlleo (i@leo.moe)](https://github.com/sjlleo)
 
 [isyekong (yekongtat@gmail.com)](https://github.com/isyekong)
+
+[samleong123 (samsam123@samsam123.name.my)](https://github.com/samleong123)
