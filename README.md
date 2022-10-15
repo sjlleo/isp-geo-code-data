@@ -32,6 +32,26 @@ rDNS:
 4.68.38.225 - ae-9.edge1.Tokyo4.Level3.net
 ```
 
+## 额外信息
+1. NTT 在马来西亚的地理信息
+
+NTT 在马来西亚的PoP rDNS 是 : ```ae-8.r01.kslrml02.my.bb.gin.ntt.net```
+
+其中的 ```kslrml``` 前四位是NTT代表 City/城市 的代码
+
+根据 [NTT 官网](https://www.gin.ntt.net/support-center/policies-procedures/maintenance/) ```kslrml``` 属于 Kuala Lumpur (马来西亚吉隆坡联邦直辖区)
+
+可是 ```kslr``` 是 Kuala Selangor (瓜拉雪兰莪) 的缩写 
+
+Kuala Selangor (瓜拉雪兰莪) 是一个隶属于 Selangor (雪兰莪) 州里面的 District (县) , 并非隶属于 Kuala Lumpur (马来西亚吉隆坡联邦直辖区)
+
+由于我们无法确定他真正地理位置实在 Kuala Selangor (瓜拉雪兰莪) 还是 Kuala Lumpur (马来西亚吉隆坡联邦直辖区) , 我们将两份数据整合在一起 , NTT 关于 ```kslrml``` 的 rDNS 都会被归类为 Kuala Lumpur / KUL (马来西亚吉隆坡联邦直辖区)
+
+在 ```isp_city_4_ntt``` 和 ```province_code_4_ntt``` 一栏则会使用 ```kslr``` 和  ```ml``` 
+
+因此```kslrml```将会被定义成 Kuala Lumpur / KUL (马来西亚吉隆坡联邦直辖区)
+
+
 ## 贡献者名单
 
 [sjlleo (i@leo.moe)](https://github.com/sjlleo)
