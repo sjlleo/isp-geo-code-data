@@ -33,6 +33,8 @@ sha,中国,上海市,,shanghai,,cn,,sh,shanghai
 can,中国,广东省,广州市,guangzhou,,cn,,gd,guangdong
 hgh,中国,浙江省,杭州市,hangzhou,,cn,,zj,zhejiang
 wuh,中国,湖北省,武汉市,wuhan,,cn,,hb,hubei
+cgo,中国,河南省,郑州市,zhengzhou,,cn,,ha,henan
+tna,中国,山东省,济南市,jinan,,cn,,sd,shandong
 hkg,中国,香港,,hongkong,chwa,cn,,hk,
 hnk,中国,香港,,hongkong,chwa,cn,,hk,
 hkb,中国,香港,,hongkong,chwa,cn,,hk,
@@ -46,9 +48,13 @@ kul,马来西亚,吉隆坡联邦直辖区,吉隆坡,kualalumpur,kslr,my,kul,ml,
 qpg,新加坡,,,singapore,sngp,sg,,si,
 sgp,新加坡,,,singapore,sngp,sg,,si,
 sin,新加坡,,,singapore,sngp,sg,,si,
+mnl,菲律宾,首都区,马尼拉,manila,,ph,,,
 syd,澳大利亚,新南威尔士州,悉尼,sydney,sydn,au,,au,
 mel,澳大利亚,维多利亚州,墨尔本,melbourne,,au,,vc,
 per,澳大利亚,西澳大利亚州,珀斯,perth,,au,,,
+bne,澳大利亚,昆士兰州,布里斯班,brisbane,,au,,,
+akl,新西兰,奥克兰大区,奥克兰,auckland,,nz,,,
+gum,关岛,关岛,曼吉劳,mangilao,,gu,,,
 tyo,日本,东京都,东京,tokyo,toky,jp,,jp,
 tky,日本,东京都,东京,tokyo,toky,jp,,jp,
 hnd,日本,东京都,东京,tokyo,toky,jp,,jp,
@@ -57,6 +63,7 @@ osa,日本,大阪府,大阪,osaka,osak,jp,,jp,
 sel,韩国,首尔特别市,首尔,seoul,seol,kr,,ko,
 qun,韩国,江原道,春川,chuncheon,,kr,,,
 lon,英国,英格兰,伦敦,london,lond,gb,,en,
+ldn,英国,英格兰,伦敦,london,lond,gb,,en,
 lhr,英国,英格兰,斯劳,slough,slou,gb,,en,
 fra,德国,黑森州,美因河畔法兰克福,frankfurt,frnk,de,,ge,
 ham,德国,汉堡州,汉堡,hamburg,,de,,,
